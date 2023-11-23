@@ -41,7 +41,7 @@ def delete_temp_dir (dirname):
 		except:
 			print()
 			sys.exit(0)
-	system("rm -r %s" % dirname)
+		system("rm -r %s" % dirname)
 
 
 # program starts here
