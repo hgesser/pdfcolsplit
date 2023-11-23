@@ -33,7 +33,7 @@ Run
 ```
 pdfcolsplit.py filename.pdf
 ```
-to have the script generate `filename-edited.pdf`.
+to have the script generate `filename-comments.pdf`.
 
 
 ## Trusting an `rm -r`
