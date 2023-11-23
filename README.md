@@ -8,6 +8,9 @@ left and a lot of white space on the right, you can use this tool.
 Why would you want to do this? This provides huge margins for handwritten notes, such as in an
 educational environment.
 
+![Image of three PDF pages, the first two pages show only one column of text, the third page shows the
+the original page with both columns](doc/editing-examples.jpg)
+
 I manage two "conference seminars" where students write papers, submit them anonymously, peer-review
 papers of other students (double-blind), re-submit, and give a talk on a conference day. There's
 also a tutor role, and a tutor will need to add many comments to early versions of the papers.
